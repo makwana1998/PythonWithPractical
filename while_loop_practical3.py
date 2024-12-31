@@ -39,9 +39,11 @@
 
 # using for loop factoreal
 
-n = 5
-fact = 1
-for i in range(1,6):
-    fact *=i
-print("The factoreal is =",fact)
+# n = 5
+# fact = 1
+# for i in range(1,6):
+#     fact *=i
+# print("The factoreal is =",fact)
+
+print('Python')
     
